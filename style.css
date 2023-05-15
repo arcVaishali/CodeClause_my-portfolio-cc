@@ -6,30 +6,22 @@
 }
 
 p{
-    /* color: white; */
-    /* display:inline; */
-    padding:50px 0px;
-    border:10px outset  rgb(126, 48, 195);
-    background-color: black;
-    
-    /* background-repeat: no-repeat; */
+    padding:50px;
+    background-color: rgb(242, 242, 146); 
+ 
 }
 
 h1 {
-    /* float:left;  */
-    /* color:white;    */
-    /* border:10px outset pink; */
-    color:aliceblue;
-    background-color: rgb(126, 48, 195);
+    
+    color:black;
+    background-color : rgb(233, 233, 153);
     padding-left:23px;
     padding-right:23px;
     padding-top:23px;
-    /* /* margin-bottom:23px;  */
-
 }
 h3{
-    color:azure;
-    background-color: rgb(126, 48, 195);
+    color:black;
+    background-color:rgb(239, 239, 156);
     padding-left:23px;
     padding-right:23px;
     padding-bottom:23px;
@@ -40,7 +32,7 @@ h3{
     background-color: black; 
     overflow:auto;
     padding:12px;
-    border-bottom:20px outset  rgb(126, 48, 195);
+    border-bottom:20px outset rgb(227, 227, 106);
 }
 
 .nav-bar a{
